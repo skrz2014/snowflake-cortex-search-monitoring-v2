@@ -94,6 +94,7 @@ Governance Layer
 | `08_html_alerts.sql` | 5 executive HTML alerting workflows |
 | `09_test_suite.sql` | 65-test validation suite |
 | `10_cxo_report.sql` | CXO dashboard with anomaly detection |
+| `11_streamli_App.py` | Streamlit App for dashboard |
 | `full_implementation.sql` | Single-file end-to-end deployment |
 | `deploy.sh` | Automated deployment script |
 | `streamlit_dashboard.py` | Interactive Streamlit observability dashboard |
